@@ -1,9 +1,11 @@
 .main-header {
     display: flex;
     align-items: center;
+    padding: var(--gap-smaller) var(--gap-medium) 0;
     justify-content: space-between;
 }
 
 .main-header > .main-logo {
     font-size: 20px;
 }
+

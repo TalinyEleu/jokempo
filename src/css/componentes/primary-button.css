@@ -5,3 +5,9 @@
     border-radius: 4px;
     font-family: 'Comfortaa', sans-serif;
 }
+
+.primary-button.-dark {
+    color: var(--color-base);
+    font-family: 'Bitter', sans-serif;
+    font-weight: bold;
+}

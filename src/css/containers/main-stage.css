@@ -1,0 +1,29 @@
+.main-stage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+.main-stage > .simple-title {
+    margin-bottom: var(--gap-smaller);
+}
+
+.main-stage > .simple-subtitle {
+    margin-bottom: var(--gap-big);
+}
+
+.main-stage > .primary-button {
+    width: 180px;
+    text-align: center;
+    height: 28px;
+    line-height: 28px;
+    margin-bottom: var(--gap-smaller);
+    font-size: 15px;
+}
+
+.main-stage > .simple-action {
+    font-size: 15px;
+     
+}
